@@ -1,5 +1,5 @@
 # TIS-Assignment 2-Poster（industry talk 1）
-Group 5
+Date: 20/11/2025 Group 5
 
 # Description
 This repository contains my poster assignment for the subject
